@@ -1,0 +1,17 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+azure.err
+iisnode.yml
+
+# Icon must ends with two \r.
+Icon
+
+node_modules
+
+
+# Floobits
+.floo
+.floobit
+.floo
+.flooignore
